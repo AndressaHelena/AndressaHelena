@@ -27,7 +27,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 />
 </div
 
-👩🏻‍💻Meu objetivo principal é me tornar um front-end desenvolvedora.
+👩🏻‍💻Meu objetivo principal é me tornar uma desenvolvedora Front-end.
 
 
 <div align = "center" >
