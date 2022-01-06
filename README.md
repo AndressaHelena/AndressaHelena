@@ -1,6 +1,8 @@
 ### Olá! Eu sou a Andressa Helena
-🌱Estudando Análise e Desenvolvimento de Sistemas
 
+🎓Estudando Análise e Desenvolvimento de Sistemas
+
+🖥️ Atualmente estou aprendendo / praticando HTML, CSS e JAVASCRIPT.
 
 <img
 align="center"
