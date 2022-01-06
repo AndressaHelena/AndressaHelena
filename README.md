@@ -23,7 +23,10 @@ height="30"
 width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
 />
-</div>
+</div
+
+👩🏻‍💻Meu objetivo principal é me tornar um front-end desenvolvedora.
+
 
 <div align = "center" >
 <a href="https://github.com/AndressaHelena">
