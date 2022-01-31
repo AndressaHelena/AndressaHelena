@@ -28,7 +28,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 />
 </div
 
-👩🏻‍💻Meu objetivo principal é me tornar uma desenvolvedora Front-end.
 <a href="https://github.com/AndressaHelena">
   
   <img height="180em" 
