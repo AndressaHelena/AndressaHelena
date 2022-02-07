@@ -1,13 +1,13 @@
-### Olá! Eu sou a Andressa Helena
+Eu sou a Andressa Helena
 
-🎓 Estudando Análise e Desenvolvimento de Sistemas
+🎓 Cursando Análise e Desenvolvimento de Sistemas - Descomplica
 
 🖥️ Atualmente estou aprendendo / praticando HTML, CSS e JAVASCRIPT.
 
 <div align="center">
   <a href="https://github.com/AndressaHelena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndressaHelena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaHelena&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndressaHelena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaHelena&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <img
