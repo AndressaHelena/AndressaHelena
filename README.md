@@ -2,7 +2,7 @@ Eu sou a Andressa Helena
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas - Descomplica
 
-🖥️ Atualmente estou aprendendo / praticando HTML, CSS e JAVASCRIPT.
+🖥️ Atualmente estou aprendendo / praticando JAVA, HTML e css.
 
 <img
 align="center"
