@@ -32,7 +32,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
   <a href="https://github.com/AndressaHelena">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndressaHelena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaHelena&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div><br>
 
 
 <div>
@@ -42,5 +42,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
     src="https://img.shields.io/badge/-Andressa Helena-%230077B5?Style=for-the-badge&logo=linkedin&logoColor=white" alt="Imagem do LinkedIn que encaminha para o perfil de Andressa na Rede Social Profissional do LinkedIn"
     target="_blank"
   />        
-</div>
+</div><br>
+  lifelong learning
 
