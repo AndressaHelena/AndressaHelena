@@ -1,6 +1,9 @@
-Eu sou a Andressa Helena
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=header&text=Be+Welcome!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas - Descomplica
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f300b4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andressa+Helena;Developer+in+training;I+from+São+Paulo,+SP;I+study+systems+analysis+and+development)](https://git.io/typing-svg)
+
+
 
 🖥️ Atualmente estou aprendendo / praticando HTML, CSS e JAVASCRIPT.
 
@@ -49,4 +52,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
   />        
 </div>
   
-
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=footer&text=Thank+you+for+your+visit!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
+  
+  
+ 
