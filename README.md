@@ -4,53 +4,73 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f300b4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andressa+Helena;Developer+in+training;I+from+São+Paulo,+SP;I+study+systems+analysis+and+development)](https://git.io/typing-svg)
 
 <div>
-  <a href="https://github.com/AndressaHelena">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndressaHelena&show_icons=true&count_private=true&hide_border=true&title_color=34e7e4&icon_color=f300b4&f&text_color=dcdde1&bg_color=0d1117"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaHelena&layout=compact&hide_border=true&title_color=34e7e4&icon_color=00bfbf&text_color=34e7e4&&bg_color=0d1117" />
-</div><br>
+    <a href="https://github.com/AndressaHelena">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndressaHelena&show_icons=true&count_private=true&hide_border=true&title_color=34e7e4&icon_color=f300b4&f&text_color=dcdde1&bg_color=0d1117"/>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaHelena&layout=compact&hide_border=true&title_color=34e7e4&icon_color=00bfbf&text_color=34e7e4&&bg_color=0d1117" />
+</div>
+    
 
-🖥️ Atualmente estou aprendendo / praticando HTML, CSS e JAVASCRIPT.
+    
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=AndressaHelena&theme=gotham&hide_border=true&area=true)
 
-<div>
-<img
-align="center"
-alt="Andressa-HTML5"
-height="30"
-width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-/>
-<img
-align="center"
-alt="Andressa-CSS3"
-height="30"
-width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-/>
-<img
-align="center"
-alt="Andressa-Js"
-height="30"
-width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-/><br><br>
-  
- <img
- height="60"
- width="60"
- src="https://user-images.githubusercontent.com/94869300/167043683-c033e826-a8e1-4710-9356-d11224793ad4.png"/>
- <h2>lifelong learning</h2>
- </div><br>
+     
 
-
-
-<div>
+   
+ <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/andressa-helena-26a68621a/"     
   >
   <img
     src="https://img.shields.io/badge/-Andressa Helena-%230077B5?Style=for-the-badge&logo=linkedin&logoColor=white" alt="Imagem do LinkedIn que encaminha para o perfil de Andressa na Rede Social Profissional do LinkedIn"
-    target="_blank"
+    target="_blank" 
   />        
-</div>
+</div><br>
+
+   
+   <img
+   height="60"
+   width="60"
+   src="https://user-images.githubusercontent.com/94869300/167043683-c033e826-a8e1-4710-9356-d11224793ad4.png"/>
+
+  ## lifelong learning
+
+
+<div>
+  <img
+  align="center"
+  alt="Andressa-HTML5"
+  height="30"
+  width="40"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  />
+  <img
+  align="center"
+  alt="Andressa-CSS3"
+  height="30"
+  width="40"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  />
+  <img
+  align="center"
+  alt="Andressa-Js"
+  height="30"
+  width="40"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+  />
+  <img
+  align="center"
+  alt="Andressa-react"
+  height="30"
+  width="40"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+ </div><br>
+    
+    
+   
+
+
+
+
   
 <div align="center">
   <br><p><b>Visitors Count</b></p>  
