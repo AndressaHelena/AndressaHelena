@@ -77,7 +77,7 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AndressaHelena}/count.svg" /></p> 
 <br></div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=footer&text=Thank+you+for+your+visit!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=footer&text=Thank+you+for+visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
   
   
  
