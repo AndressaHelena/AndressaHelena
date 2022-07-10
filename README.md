@@ -35,26 +35,33 @@
 
 
 <div>
+   <img 
+   align="center" 
+   alt="ícone-git" 
+   height="30" 
+   width="40" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+   />
   <img
   align="center"
-  alt="Andressa-HTML5"
+  alt="ícone-HTML5"
   height="30"
   width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
   />
   <img
   align="center"
-  alt="Andressa-CSS3"
+  alt="ícone-CSS3"
   height="30"
   width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
   />
   <img
   align="center"
-  alt="Andressa-Js"
+  alt="ícone-Js"
   height="30"
   width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
   />
   </div><br>
   
@@ -62,12 +69,19 @@
   <div>
   <img
   align="center"
-  alt="Andressa-react"
+  alt="ícone-react"
   height="30"
   width="40"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
- </div><br>
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+  />
+   <img 
+   align="center" 
+   alt="ícone-java" 
+   height="30" 
+   width="40" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+   />
+ </div>
     
     
    
