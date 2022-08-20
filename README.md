@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=header&text=Be+Welcome!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f300b4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andressa+Helena;Developer+in+training;I+from+São+Paulo,+SP;I+study+systems+analysis+and+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67e22&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andressa+Helena;Developer+in+training;I+from+São+Paulo,+SP;I+study+systems+analysis+and+development)](https://git.io/typing-svg)
 
 <div align="center">
     <a href="https://github.com/AndressaHelena">
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndressaHelena&show_icons=true&count_private=true&hide_border=true&title_color=34e7e4&icon_color=f300b4&f&text_color=dcdde1&bg_color=0d1117"/>
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaHelena&layout=compact&hide_border=true&title_color=34e7e4&icon_color=00bfbf&text_color=34e7e4&&bg_color=0d1117" />
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndressaHelena&show_icons=true&count_private=true&hide_border=true&title_color=e67e22&icon_color=d35400&f&text_color=dcdde1&bg_color=0d1117"/>
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaHelena&layout=compact&hide_border=true&title_color=bdc3c7&icon_color=00bfbf&text_color=d35400&&bg_color=0d1117" />
 </div>
     
 
