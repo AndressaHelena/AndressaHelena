@@ -5,11 +5,10 @@
 
 <div align="center">
     <a href="https://github.com/AndressaHelena">
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndressaHelena&show_icons=true&count_private=true&hide_border=true&title_color=e67e22&icon_color=d35400&f&text_color=dcdde1&bg_color=0d1117"/>
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaHelena&layout=compact&hide_border=true&title_color=bdc3c7&icon_color=00bfbf&text_color=d35400&&bg_color=0d1117" />
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndressaHelena&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true&title_color=e67e22&icon_color=d35400&f&text_color=dcdde1&bg_color=0d1117" />
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaHelena&layout=compact&&include_all_commits=true&hide_border=true&title_color=bdc3c7&icon_color=00bfbf&text_color=d35400&&bg_color=0d1117" />
 </div>
     
-
     
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=AndressaHelena&theme=gotham&hide_border=true&area=true)
 
