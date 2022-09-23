@@ -66,7 +66,7 @@
   
    ## Interests
      
-  <div> 
+  <div>  
    <img 
    align="center" 
    alt="ícone-java" 
