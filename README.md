@@ -42,6 +42,10 @@
    height="100"
    width="110"
    src="https://github.com/user-attachments/assets/54a7a426-ba47-4fdc-91d2-f711cb5eb97a"/>
+    <img
+   height="110"
+   width="110"
+   src="https://github.com/user-attachments/assets/ced0792b-05c3-4fff-81eb-3aba2a66dfa5"/>
 
   ## lifelong learning
 <div>
