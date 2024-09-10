@@ -30,10 +30,48 @@
    width="60"
    src="https://user-images.githubusercontent.com/94869300/167043683-c033e826-a8e1-4710-9356-d11224793ad4.png"/>
 
+
+ ## Certificações
+ <img
+   height="100"
+   width="110"
+   src="https://github.com/user-attachments/assets/3d680462-6cfc-4693-9fd2-88aae2d2f721"/>
+ <img
+   height="115"
+   width="115"
+   src="https://github.com/user-attachments/assets/f570c5be-7209-40fd-9142-ae2ea1a0244e"/>
+    <img
+   height="100"
+   width="110"
+   src="https://github.com/user-attachments/assets/bf80500f-59b9-4d54-9020-d324eeb7034c"/>
+ <img
+   height="100"
+   width="110"
+   src="https://github.com/user-attachments/assets/54a7a426-ba47-4fdc-91d2-f711cb5eb97a"/>
+
   ## lifelong learning
-
-
 <div>
+    <img 
+   align="center" 
+   alt="ícone-PowerApps" 
+   height="30" 
+   width="35" 
+   src="https://github.com/user-attachments/assets/bbd40f14-935d-40f3-ae3a-4a2a172a0234"
+   />
+ <img 
+   align="center" 
+   alt="ícone-Sharepoint" 
+   height="30" 
+   width="35" 
+   src="https://github.com/user-attachments/assets/263fd283-7036-4971-8f64-3425944c9168"
+   />
+   <img 
+   align="center" 
+   alt="ícone-PowerAutomate" 
+   height="30" 
+   width="35" 
+   src="https://github.com/user-attachments/assets/03c753a8-e454-47b2-9882-4c38009f12fc"
+   />
    <img 
    align="center" 
    alt="ícone-git" 
