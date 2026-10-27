@@ -56,6 +56,39 @@
    width="35" 
    src="https://github.com/user-attachments/assets/bbd40f14-935d-40f3-ae3a-4a2a172a0234"
    />
+    <img 
+   align="center" 
+   alt="ícone-PowerAutomate" 
+   height="30" 
+   width="35" 
+   src="https://github.com/user-attachments/assets/03c753a8-e454-47b2-9882-4c38009f12fc"
+   />
+    <img
+align="center"
+alt="Microsoft Copilot"
+height="30"
+width="35"
+src="https://img.icons8.com/fluency/48/microsoft-copilot.png"
+/>
+    <img
+  align="center"
+  alt="Microsoft Copilot Studio"
+  height="30"
+  src="https://brandlogo.org/wp-content/uploads/2025/05/Microsoft-Copilot-Studio-Icon-2024.png"
+/>
+  <img
+  align="center"
+  alt="Dynamics 365"
+  height="30"
+  src="https://img.icons8.com/color/48/dynamics-365.png"
+/>
+    <img
+  align="center"
+  alt="Microsoft Dataverse"
+  height="30"
+    width="35" 
+  src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-dataverse.png"
+/>
  <img 
    align="center" 
    alt="ícone-Sharepoint" 
@@ -63,13 +96,7 @@
    width="35" 
    src="https://github.com/user-attachments/assets/263fd283-7036-4971-8f64-3425944c9168"
    />
-   <img 
-   align="center" 
-   alt="ícone-PowerAutomate" 
-   height="30" 
-   width="35" 
-   src="https://github.com/user-attachments/assets/03c753a8-e454-47b2-9882-4c38009f12fc"
-   />
+   
    <img 
    align="center" 
    alt="ícone-git" 
