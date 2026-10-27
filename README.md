@@ -47,7 +47,7 @@
    width="110"
    src="https://github.com/user-attachments/assets/ced0792b-05c3-4fff-81eb-3aba2a66dfa5"/>
 
-  ## lifelong learning
+  ## Skills Principais
 <div>
     <img 
    align="center" 
@@ -95,9 +95,10 @@ src="https://img.icons8.com/fluency/48/microsoft-copilot.png"
    height="30" 
    width="35" 
    src="https://github.com/user-attachments/assets/263fd283-7036-4971-8f64-3425944c9168"
-   />
+   /></div><br>
    
-   <img 
+   ## Skills Secundárias
+   <div><img 
    align="center" 
    alt="ícone-git" 
    height="30" 
@@ -125,45 +126,8 @@ src="https://img.icons8.com/fluency/48/microsoft-copilot.png"
   width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
   />
-  </div><br>
-  
-   ## Interests
-     
-  <div>  
-   <img 
-   align="center" 
-   alt="ícone-java" 
-   height="30" 
-   width="40" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-   /> 
-  <img
-  align="center"
-  alt="ícone-react"
-  height="30"
-  width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-  />
-   <img 
-   align="center" 
-   alt="ícone-java" 
-   height="30" 
-   width="40" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-   />
- </div>
-    
-    
-   
-
-
-
-
-  
-<div align="center">
-  <br><p><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AndressaHelena}/count.svg" /></p> 
-<br></div>
+  </div><br>  
+ 
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=footer&text=Thank+you+for+visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
   
